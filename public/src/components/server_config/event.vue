@@ -180,4 +180,4 @@ export default {
 		"add_session_button": "Add session"
     }
 }
-</i18n>
+</i18n> 
